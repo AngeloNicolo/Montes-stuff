@@ -11,7 +11,7 @@ def on_select(event):
 
 #Window title comes back with text.
 root = tk.Tk()
-root.tile("Combobox Example")
+root.title("Combobox Example")
 
 # List of items in a Array.
 items = ["item 1", "item2", "item3", "item4", "item5"]
